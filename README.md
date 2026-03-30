@@ -2,7 +2,6 @@
 A Python-based desktop application that simulates and visualizes CPU Scheduling algorithms used in Operating Systems. Built with Python, Tkinter and Matplotlib.
 
 📸 Screenshots
-# All of these are added in the screenshots folder
 Main Window
 FCFS Result + Gantt Chart
 Algorithm Comparison
@@ -62,9 +61,7 @@ cd schedviz-cpu-scheduling-analyzer
 2. Install dependencies
 bashpip install matplotlib
 3. Run the GUI version
-bashpy -3.10 gui.py
-4. Run the terminal version
-bashpy -3.10 main.py
+bashpy -3.14 gui.py
 
 📁 Project Structure
 schedviz-cpu-scheduling-analyzer/
