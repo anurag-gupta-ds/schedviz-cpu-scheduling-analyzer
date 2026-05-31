@@ -118,19 +118,19 @@ The system displays:
 
 ## 🏗 Project Structure
 
-### Member 1
+### 1
 - Process Class
 - Process Attributes
 - Queue Creation
 - Process Assignment
 
-### Member 2
+### 2
 - FCFS Scheduling Algorithm
 
-### Member 3
+### 3
 - Round Robin Scheduling Algorithm
 
-### Member 4
+### 4
 - GUI Development
 - Result Display
 - Gantt Chart Visualization
@@ -169,15 +169,6 @@ Time Quantum:
 ```
 
 ---
-
-## 🎓 Educational Value
-
-This project is suitable for:
-
-- Operating System Mini Projects
-- Academic Demonstrations
-- CPU Scheduling Visualization
-- Viva and Practical Examinations
 
 ---
 
