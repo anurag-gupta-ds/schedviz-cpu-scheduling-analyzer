@@ -118,19 +118,15 @@ The system displays:
 
 ## 🏗 Project Structure
 
-### 1
 - Process Class
 - Process Attributes
 - Queue Creation
 - Process Assignment
 
-### 2
 - FCFS Scheduling Algorithm
 
-### 3
 - Round Robin Scheduling Algorithm
 
-### 4
 - GUI Development
 - Result Display
 - Gantt Chart Visualization
